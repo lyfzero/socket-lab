@@ -1,0 +1,3 @@
+/home/lyf/CLionProjects/socket-lab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lyf/CLionProjects/socket-lab/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lyf/CLionProjects/socket-lab/cmake-build-debug/CMakeFiles/socket_lab.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/socket_lab.dir/main.cpp.o CMakeFiles/socket_lab.dir/fs.cpp.o CMakeFiles/socket_lab.dir/server.cpp.o CMakeFiles/socket_lab.dir/request.cpp.o CMakeFiles/socket_lab.dir/response.cpp.o CMakeFiles/socket_lab.dir/utils.cpp.o CMakeFiles/socket_lab.dir/my_socket.cpp.o  -o socket_lab 
